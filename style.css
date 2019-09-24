@@ -1,0 +1,45 @@
+body{
+    background: #49516F;
+}
+
+.container {
+    max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus{
+    color: #fff;
+    border:none;
+    background: rgba(0,0,0,0.2);
+    max-width:400px;
+}
+
+.todos li {
+    background: #6279B8;
+}
+
+.todos li:nth-child(odd){
+    background: #8EA4D2;
+}
+
+.todos li:hover {
+    background: #ddd;
+    color:black;
+  }
+
+.delete {
+    cursor: pointer;
+}
+
+.todos span{
+    cursor: pointer;
+}
+.todos span.checked{
+    color: #fff;
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+.filtered{
+    display: none !important;
+}

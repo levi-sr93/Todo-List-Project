@@ -2,7 +2,7 @@
 
 Todo List project using html, css and JavaScript
 
-Add as many activities as you want to perform and at the end click on the list to cross out the activity and if you no longer want to delete it by clicking on the trash can icon.
+TODO LIST so you don't forget what activities you should do.
 
 ![alt text](https://github.com/levi-sr93/Todo-List-Project/blob/master/imgs/todolist%20project.JPG?raw=true)
 ![alt text](https://github.com/levi-sr93/Todo-List-Project/blob/master/imgs/search.JPG?raw=true)
